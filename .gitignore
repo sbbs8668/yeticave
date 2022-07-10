@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+*.ai
+*.log
+.editorconfig
+.gitattributes
+flatpickr.js
+*.pdf
+*.psd
+*.sublime*
+Thumbs.db
+vendor
+uploads/*
+!uploads/.gitkeep

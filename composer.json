@@ -1,0 +1,15 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/"
+    }
+  },
+  "require": {
+    "ext-gd": "*",
+    "symfony/mailer": "^6.1",
+    "twig/twig": "^3.0",
+    "ext-imagick": "*",
+    "ext-pdo": "*",
+    "ext-pdo_mysql": "*"
+  }
+}
